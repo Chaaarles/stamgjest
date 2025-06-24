@@ -10,8 +10,6 @@ parameters:
     - vendor
     - storage
     - bootstrap/cache
-  checkMissingIterableValueType: true
-  checkGenericClassInNonGenericObjectType: true
   reportUnmatchedIgnoredErrors: false
   ignoreErrors:
     - '#PHPDoc tag @var#'
