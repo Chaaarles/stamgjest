@@ -1,11 +1,11 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "chaaarles/stamgjest",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "A simple party-planning CRM.",
     "keywords": [
-        "laravel",
-        "framework"
+        "party",
+        "CRM"
     ],
     "license": "MIT",
     "require": {
