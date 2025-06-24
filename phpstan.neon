@@ -1,0 +1,17 @@
+parameters:
+  level: 8
+  paths:
+    - app
+    - config
+    - database
+    - routes
+    - tests
+  excludePaths:
+    - vendor
+    - storage
+    - bootstrap/cache
+  checkMissingIterableValueType: true
+  checkGenericClassInNonGenericObjectType: true
+  reportUnmatchedIgnoredErrors: false
+  ignoreErrors:
+    - '#PHPDoc tag @var#'
